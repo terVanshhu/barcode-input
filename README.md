@@ -71,3 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Open Food Facts for providing comprehensive product data
 - Wikipedia for product descriptions
 - All contributors who have helped to improve this project
+-   Parsa, Vansh
